@@ -10,6 +10,6 @@ A console based library management system with features such as:
 
 # Built with
 
-* Frontend - ```C++98```
+* Dev Environment - ```Windows 7``` - ```BORLAND Compiler for C++```
+* Frontend - ```C++98 Console Based UI```
 * Database - ```File Based```
-* Dev Environment - ```BORLAND Compiler for C++```
